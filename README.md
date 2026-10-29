@@ -1,0 +1,1 @@
+Apply and compare edge detection methods using Python and OpenCV, and investigate how parameter changes affect the detected edges.
